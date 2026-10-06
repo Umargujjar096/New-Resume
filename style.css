@@ -1,4 +1,4 @@
-*{
+
 body {
     margin: 0;
     padding: 0;
@@ -51,7 +51,7 @@ p {
 
 table {
     width: 100%;
-    border-collapse: collapse;
+    
     margin-top: 15px;
 }
 
@@ -108,7 +108,7 @@ hr {
 
 footer {
     background-color: #466bba;
-;
+
     color: white;
     text-align: center;
     padding: 20px;
@@ -118,4 +118,3 @@ footer p {
     margin: 0;
 }
   
-}
